@@ -1,0 +1,4 @@
+- Terminal
+- JS Fundamentals
+- Git
+- Challenges
